@@ -1,0 +1,8 @@
+/node_modules
+/vendor
+/.env
+/storage
+/bootstrap/cache
+/public/hot
+.env.local
+.env.*.local
