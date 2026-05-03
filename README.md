@@ -1,4 +1,4 @@
-# Sistem Manajemen Stok
+# Stock Management System
 
 ## A Laravel implementation for simple management storage system
 
